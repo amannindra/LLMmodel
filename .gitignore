@@ -1,0 +1,11 @@
+
+TinyStories
+./TinyStories
+
+
+TinyStories/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.lock
+
