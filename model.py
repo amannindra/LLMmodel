@@ -6,6 +6,7 @@ import tiktoken
 
 import time
 
+
 import torch
 from torch.utils.data import Dataset, DataLoader
 from torchvision import datasets
@@ -14,8 +15,6 @@ import torch.nn as nn
 from torch.nn import functional as F
 
 import matplotlib.pyplot as plt
-
-
 
 
 
@@ -32,8 +31,6 @@ def gets_stats(get_token):
 
 if __name__ == "__main__":
     print("Main Start")
-    
-    if
     
     ds = load_dataset(
         "roneneldan/TinyStories",
